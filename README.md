@@ -1,5 +1,5 @@
 # Deep_Learning
-Developing and applying Deep Learning models using PyTorch, TensorFlow and Keras:
+Developing and applying Deep Learning models using **PyTorch, TensorFlow and Keras**:
 
 - **Regression and Classification:** techniques for modelling and predicting numerical values and classes respectively, using neural networks and other deep learning models.
 - **Convolutional Neural Networks (CNNs):** fundamental for tasks such as image recognition, object detection and semantic segmentation.
